@@ -1,0 +1,26 @@
+.Images .content{
+    position: relative;
+    margin-top: 20px;
+    width: 400px;
+    padding: 10px;
+}
+
+.Images .btns{
+   display: flex;
+   justify-content: space-around;
+}
+
+.Images .container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+
+.Images .Photo{
+    margin-right: 10px;
+}
+
+.Images img{
+    width: 400px;
+    height: 300px;
+}

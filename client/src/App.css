@@ -1,0 +1,15 @@
+.App{
+  text-align: center;
+}
+
+.App .navBar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: rgb(221, 119, 82);
+}
+
+.App a{
+  margin: 20px;
+}
